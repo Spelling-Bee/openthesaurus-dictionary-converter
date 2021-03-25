@@ -1,0 +1,9 @@
+.DS_STORE
+node_modules
+__tests__
+scripts
+scripts
+.gitignore
+babel.config.js
+jest.config.js
+yarn.lock
